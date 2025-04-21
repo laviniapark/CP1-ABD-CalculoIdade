@@ -21,5 +21,7 @@ git clone https://github.com/laviniapark/CP1-ABD-CalculoIdade.git
 2. Acesse o Visual Studio 2022
 
 (Caso não tenha baixe nesse link : https://visualstudio.microsoft.com/pt-br/vs/)
+
 3. Selecione abrir projeto
+
 4. Selecone a pasta do repositório
