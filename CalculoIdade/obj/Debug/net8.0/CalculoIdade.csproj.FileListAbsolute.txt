@@ -1,0 +1,14 @@
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/bin/Debug/net8.0/CalculoIdade
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/bin/Debug/net8.0/CalculoIdade.deps.json
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/bin/Debug/net8.0/CalculoIdade.runtimeconfig.json
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/bin/Debug/net8.0/CalculoIdade.dll
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/bin/Debug/net8.0/CalculoIdade.pdb
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/obj/Debug/net8.0/CalculoIdade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/obj/Debug/net8.0/CalculoIdade.AssemblyInfoInputs.cache
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/obj/Debug/net8.0/CalculoIdade.AssemblyInfo.cs
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/obj/Debug/net8.0/CalculoIdade.csproj.CoreCompileInputs.cache
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/obj/Debug/net8.0/CalculoIdade.dll
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/obj/Debug/net8.0/refint/CalculoIdade.dll
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/obj/Debug/net8.0/CalculoIdade.pdb
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/obj/Debug/net8.0/CalculoIdade.genruntimeconfig.cache
+/Users/laviniapark/RiderProjects/CalculoIdade/CalculoIdade/obj/Debug/net8.0/ref/CalculoIdade.dll
